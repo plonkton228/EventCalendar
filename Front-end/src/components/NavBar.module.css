@@ -1,0 +1,24 @@
+.head {
+    position: sticky;
+    background-color: black;
+}
+
+.container {
+    max-width: 1024px;
+    margin : 0 auto;
+}
+
+.nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+
+ul {
+    margin-top: 16px !important;
+}
+
+li {
+    list-style-type: none; /* Убираем маркеры */
+   }

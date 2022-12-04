@@ -1,0 +1,37 @@
+.container {
+    max-width: 90%;
+    margin: 0 auto;
+    height: 90vh;
+}
+
+.flexcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.logincontainer {
+    border : 2px solid gray;
+    height: 300px;
+    width: 450px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.mb{
+  width: 90% !important
+}
+
+input{
+    border-radius: 0 !important;
+}
+/* form{
+    width: 90%;
+} */
+
+.changeform{
+    width: 90% !important;
+}

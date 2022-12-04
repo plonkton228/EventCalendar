@@ -1,0 +1,34 @@
+.containerflex {
+ width: 100%;
+ height: 100%;
+ display: flex;
+ align-items: center;
+}
+
+
+.container{
+      width: 100%;
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: 3px 3px 9px 5px #ebeaea;
+}
+
+.changecontainer {
+    margin-left: 10px;
+    width: 100%;
+ 
+    
+}
+
+.changecontainerv2{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+p{
+    margin:0;
+    margin-left : 10px;
+    flex-basis: 50%;
+}
